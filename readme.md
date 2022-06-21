@@ -5,9 +5,11 @@
 <p><b>Hello there! Welcome to my Github repository</b></p>
 <p>I'm Julieta, ( <a href="https://github.com/Ju-oogle" target="_blank"><img src="https://img.shields.io/badge/About-green?&style=for-the-flat&logo=aboutdotme&logoColor=white"></a> ) a Fullstack Jr. developer <em>in the making</em> from <b>Mendoza, Argentina</b>.</p>
 
+
 ## About
+
 <p>This repository includes a basic practice on Data Science using some of the most used libraries on Python. 
-Using Kaggle’s “House Prices: Advance Regression Techniques” the project was made with the help of the instructions of Teacher Dan. from <a href="https://www.youtube.com/c/A2Capacitaci%C3%B3nExcel" target="_blank"><img alt="youtube" src="https://img.shields.io/badge/YouTube-red?&style=for-the-flat&logo=youtube&logoColor=white"></a></p> 
+Using Kaggle’s “House Prices: Advance Regression Techniques” the project was made with the help of the instructions of Teacher Dan from A2 Capacitación: Excel <a href="https://www.youtube.com/c/A2Capacitaci%C3%B3nExcel" target="_blank"><img alt="youtube" src="https://img.shields.io/badge/YouTube-red?&style=for-the-flat&logo=youtube&logoColor=white"></a></p> 
 
 
 ## Where to find me
